@@ -1,6 +1,6 @@
 # Assignment1
 
-1. This program takes command line arguments for standard input and output.
+Markup: 1. This program takes command line arguments for standard input and output.
 
 2. It takes two command line arguments followed by python: 
             i. main.py method
